@@ -5,3 +5,8 @@
 filename: Unipolar_square_wave.mlx
 Output: 
 ![Unipolar Square Wave output](./Images/unipolar_square_wave.png "Unipolar Square Wave")
+
+### Periodic Exponential 
+filename: periodic_exponential.mlx
+Output: 
+![periodic exponential wave output](./Images/periodic_exponential.png "periodic exponential wave")
